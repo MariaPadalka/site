@@ -1,0 +1,10 @@
+p{ background-color:gainsboro;
+              color:darkblue;
+        font-family: sans-serif;
+          font-size:16px;
+hanging-punctuation: allow-end;
+}
+h1{        color: darkslategray;
+background-color: gainsboro;
+     font-family: serif;
+}
